@@ -1,0 +1,41 @@
+nav.navbar {
+    background-color: #0f292f;
+    color: #cb2d6f;
+}
+
+.nav-link {
+    color: #cb2d6f;
+}
+
+body {
+    background: url(https://previews.123rf.com/images/monsitj/monsitj1709/monsitj170900059/94040748-programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+footer.navbar {
+    background-color: #0f292f;
+    color: #cb2d6f;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.name {
+    color: #14a098;
+}
+
+h3 {
+    color: #cb2d6f;
+}
+
+.col-md-6 {
+    margin:20px; 
+}
+
+form{
+    margin: 20px;
+}
